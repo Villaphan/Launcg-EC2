@@ -1,1 +1,1 @@
-# Launch & Customise simple EC2
+# Launch & Customize simple EC2
